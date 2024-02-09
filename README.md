@@ -2,6 +2,8 @@
 Spreadsheet Tic Tac Toe Game | Personal Project
 ![tic](https://github.com/Khushbooo123/Spreadsheet-Tic-Tac-Toe-Game/assets/52238176/ff616e21-bed5-4f90-b329-6e75e7a2a6f4)
 
+To see it in action: Download video from above.
+
 Project Description:
 
 The Spreadsheet Tic-Tac-Toe Game is a personal project implemented using Google Sheets and Google Apps Script. It brings the classic Tic-Tac-Toe game to the realm of spreadsheets, offering a unique and interactive way to play the game collaboratively.
