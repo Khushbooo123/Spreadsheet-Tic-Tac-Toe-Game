@@ -1,6 +1,6 @@
 # Spreadsheet-Tic-Tac-Toe-Game
 Spreadsheet Tic Tac Toe Game | Personal Project
-![tic](https://github.com/Khushbooo123/Spreadsheet-Tic-Tac-Toe-Game/assets/52238176/10d898de-3a09-4a42-9850-d88cd75b1994)
+![tic](https://github.com/Khushbooo123/Spreadsheet-Tic-Tac-Toe-Game/assets/52238176/ff616e21-bed5-4f90-b329-6e75e7a2a6f4)
 
 Project Description:
 
